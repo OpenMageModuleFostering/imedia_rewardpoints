@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Imedia_RewardPoints",
+    "name": "openmage-module-fostering\/imedia_rewardpoints",
     "type": "magento-module",
-    "license": "OSLv3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Customer reward points",
     "authors": [
